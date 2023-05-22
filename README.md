@@ -1,3 +1,3 @@
 # My_Portfolio_Website
 My Portfolio website made using HTML CSS and Javascript.
-https://mayuri13.github.io/My_Portfolio_Website/
+preview link: https://mayuri13.github.io/My_Portfolio_Website/
