@@ -1,5 +1,5 @@
 # My_Portfolio_Website
-Welcome to my personal portfolio website! This website showcases my education, skills, projects, and achievements as a web developer. It has been built using HTML, CSS, and JavaScript.
+Welcome to my personal portfolio website :grinning:! This website showcases my education, skills, projects, and achievements as a web developer. It has been built using HTML, CSS, and JavaScript.
 
 ## Features
 
@@ -16,7 +16,7 @@ Welcome to my personal portfolio website! This website showcases my education, s
 
 ## Demo
 
-Check out the live demo of my portfolio website https://mayuri13.github.io/My_Portfolio_Website/.
+Check out the live demo of my portfolio website at :point_right: https://mayuri13.github.io/My_Portfolio_Website/.
 
 ## Screenshots
 
