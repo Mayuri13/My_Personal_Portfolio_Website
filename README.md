@@ -16,7 +16,7 @@ Welcome to my personal portfolio website :grinning:! This website showcases my e
 
 ## Demo
 
-Check out the live demo of my portfolio website at :point_right: https://mayuri13.github.io/My_Portfolio_Website/.
+Check out the live demo of my portfolio website at :point_right: https://personal-portfolio.mayurigoswami.repl.co/.
 
 ## Screenshots
 
