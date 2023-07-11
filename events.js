@@ -65,3 +65,9 @@ function opentab(tabName) {
 // document.addEventListener("mouseout", () => {
 //   cursor.style.display = "none";
 // });
+
+var menu = document.getElementById("sidemenu");
+function openmenu(){
+  // menu.style.right = "700px";
+  menu.classList.toggle('show');
+}
